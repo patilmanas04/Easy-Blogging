@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap');
+.medium-font{
+     font-family: "Playfair Display", serif;
+     font-optical-sizing: auto;
+     /*font-weight: <weight>;*/
+     font-style: normal;
+}
+
+.buttons{
+     background-color: black;
+     color: white;
+}
+.buttons:hover {
+     border: solid;
+     border-width: 1px;
+     transition: 0.3s;
+     background-color: white;
+     color: black;
+}
